@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=GoLand
+Exec=goland.sh %f
+Icon=GoLand
+Comment=GoLand - Go IDE
+Categories=Development;IDE;
+Terminal=false
+StartupNotify=true
+StartupWMClass=jetbrains-goland
