@@ -36,7 +36,7 @@ jobs:
             StartupWMClass=jetbrains-goland
           version_url: 'https://data.services.jetbrains.com/products/download?code=GO&platform=linux'
           version_file: 'product-info.json'
-          version_icon: 'goland.svg'
+          version_icon: 'bin/goland.png'
           version_directory: 'opt/goland'
           publish_releases: 'true'
           versioned_releases: 'true'
